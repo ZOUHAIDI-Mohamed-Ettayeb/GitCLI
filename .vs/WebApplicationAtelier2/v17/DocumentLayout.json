@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\medta\\Desktop\\DevOps\\WebApplicationAtelier2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B97A2C-86AC-4A7E-A6CE-9E63BCEE3FDF}|WebApplicationAtelier2.csproj|c:\\users\\medta\\desktop\\devops\\webapplicationatelier2\\views\\webfrom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B97A2C-86AC-4A7E-A6CE-9E63BCEE3FDF}|WebApplicationAtelier2.csproj|solutionrelative:views\\webfrom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B97A2C-86AC-4A7E-A6CE-9E63BCEE3FDF}|WebApplicationAtelier2.csproj|c:\\users\\medta\\desktop\\devops\\webapplicationatelier2\\controllers\\webfromcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B97A2C-86AC-4A7E-A6CE-9E63BCEE3FDF}|WebApplicationAtelier2.csproj|solutionrelative:controllers\\webfromcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\medta\\Desktop\\DevOps\\WebApplicationAtelier2\\Views\\WebFrom\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\WebFrom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\medta\\Desktop\\DevOps\\WebApplicationAtelier2\\Views\\WebFrom\\Index.cshtml",
+              "RelativeToolTip": "Views\\WebFrom\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T18:16:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebFromController.cs",
+              "DocumentMoniker": "C:\\Users\\medta\\Desktop\\DevOps\\WebApplicationAtelier2\\Controllers\\WebFromController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebFromController.cs",
+              "ToolTip": "C:\\Users\\medta\\Desktop\\DevOps\\WebApplicationAtelier2\\Controllers\\WebFromController.cs",
+              "RelativeToolTip": "Controllers\\WebFromController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:16:41.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
