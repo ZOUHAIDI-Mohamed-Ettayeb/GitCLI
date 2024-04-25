@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\medta\Desktop\DevOps\WebApplicationAtelier2
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/medta/Desktop/DevOps/WebApplicationAtelier2/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/medta/Desktop/DevOps/WebApplicationAtelier2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/medta/Desktop/DevOps/WebApplicationAtelier2/Views/WebFrom/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRnJvbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/medta/Desktop/DevOps/WebApplicationAtelier2/Views/WebFrom/WebForm2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRnJvbVxXZWJGb3JtMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/medta/Desktop/DevOps/WebApplicationAtelier2/Views/_ViewImports.cshtml]

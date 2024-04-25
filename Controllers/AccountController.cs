@@ -2,14 +2,9 @@
 
 namespace WebApplicationAtelier2.Controllers
 {
-	public class WebFromController : Controller
+	public class AccountController : Controller
 	{
 		public IActionResult Index()
-		{
-			return View();
-		}
-
-		public IActionResult WebForm2()
 		{
 			return View();
 		}
